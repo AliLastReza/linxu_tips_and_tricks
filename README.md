@@ -23,3 +23,4 @@ nohup command_or_program &> /dev/null &
 nohup /home/ali/apps/Postman/Postman &> /dev/null &
 ```
 
+منبع: https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
