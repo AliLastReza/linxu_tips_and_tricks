@@ -5,6 +5,7 @@
 - [نکات](#)
 - [ترفندها](#-1)
   - [چطور رمز کوتاه و ساده تو اوبونتو بذاریم.](#.)
+  - [کلید ترکیبی باز کردن انتخاب کننده ایموجی Emooji Picker Shortcut](#EmoojiPickerShortcut)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -31,3 +32,11 @@ sudo passwd <user>
 **هشدار:** اگر کاربر هدف دارای پوشه Home رمزگذاری شده باشد، این کار می‌تواند باعث بروز مشکل شود! ([نظرات رو بخونید](https://askubuntu.com/questions/180402/how-to-set-a-short-password-on-ubuntu#comment522410_180428))
 
 منبع: https://askubuntu.com/a/180428
+
+### <a name='EmoojiPickerShortcut'></a>کلید ترکیبی باز کردن انتخاب کننده ایموجی Emooji Picker Shortcut
+
+تو اوبونتو نرم افزار (Text Editor (gnome-text-editor رو باز میکنیم و کلید ترکیبی زیر رو میزنیم.
+
+```
+Ctrl + .
+```
